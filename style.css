@@ -1,0 +1,81 @@
+
+/* *{
+    background-color: #9e94f8af;
+
+
+} */
+.background-body{
+    background-color: #9e94f8af;
+
+
+}
+.one{
+    position: relative;
+    padding: 50px 70px 50px 50px;
+    /* top: 100px;
+    left: 230px;*/
+    background-color: #fff; 
+    margin: 100px 150px 100px 100px;
+}
+input{
+    background-color: #fff;
+    
+    height: 41px;
+    width: 78%;
+}
+.btn1{
+    position: relative;
+    left: 49px;
+    width: 11%;
+    height: 41px;
+    background-color: antiquewhite;
+    font-weight: bold;
+    color: black;
+}
+.editbtn1{
+    position: fixed;
+    left: 725px;
+    color: black;
+    width: 8%;
+    height: 28px;
+    background-color: green;
+
+
+}
+.dltbtn1{
+    position: fixed;
+    left: 836px;
+    color: black;
+    width: 8%;
+    height: 28px;
+    background-color: red;
+}
+.h1{
+    color: black;
+    font-size: 60px;
+    text-decoration: underline;
+}
+/* .input-value1{
+    /* display: flex; */
+    /* width: 55%; 
+} */
+
+.display-adjust{
+    width: 55%;
+}
+
+/* span button{
+    display: flex;
+    justify-content: flex-end;
+
+} */
+span {
+    display: contents;
+    width: 80%; /* Adjust as needed */
+    word-wrap: break-word;
+  }
+  
+  .display-adjust { /* Assuming this is your container element */
+    width: 70%; /* Adjust as needed */
+    overflow-x: hidden; /* Hide overflow if necessary */
+  }
